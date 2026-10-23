@@ -1,0 +1,211 @@
+name: HCF
+version: 2.0.0 ALPHA
+api: 5.0.0
+main: hcf\HCFLoader
+author: "@blaxck, @vdam"
+permissions:
+  firerush.command:
+    default: op
+  citadel.cmd:
+    default: op
+  fix.auto:
+    default: op
+  ec.rank:
+    default: op
+  hog.command:
+    default: op
+  portals.command:
+    default: op
+  firerush.command:
+    default: op
+  abilities.command.use:
+    default: op
+  deathban.bypass:
+    default: op
+  abilities.command.give.use:
+    default: op
+  prepkgfix.command:
+    default: op
+  pkg.command:
+    dafult: op
+  hcf.ffa.bypass:
+    default: op
+  starkill.command:
+    default: op
+  setlives.cmd:
+    default: op
+  eotw.command:
+    default: op
+  x2points.command:
+    default: op
+  demon.command:
+    default: op
+  depuracion.command:
+    default: op
+  overkill.command:
+    default: op
+  faction.permission:
+    default: op
+  fixallother.command.use:
+    default: op
+  hcf.command.reclaim:
+    default: true
+  event.command:
+    default: op
+  hcf.spawnraid:
+    description: Permite usar el comando /spawnraid
+    default: op
+  setdtr.permission:
+    description: Permission nested for /f setdtr
+    default: op
+  setstrikes.permission:
+    description: Permission nested for /f setdtr
+    default: op
+  setregentime.permission:
+    description: Permission nested for /f setregentime
+    default: op
+  forcedisband.permission:
+    description: Permission nested for /f setregentime
+    default: op
+  setpoints.permission:
+    description: Permission nested for /f setpoints
+    default: op
+  faction.command.claimfor:
+    description: Permission for /faction claimfor
+    default: op
+  factionxuid.command:
+    default: op
+  setstrikes.permission:
+    default: op
+  raid.resetloot:
+    description: Permite usar /resetraidloot para reiniciar los cofres del raid
+    default: op
+  raid.start:
+    description: Permite usar /raid para iniciar una raid manualmente
+    default: op  
+  koth.command:
+    description: Permission nested for /koth
+    default: true
+  koth.command.addkey:
+    description: Permission for /koth addkey
+    default: op
+  koth.command.claim:
+    description: Permission for /koth claim
+    default: op
+  koth.command.create:
+    description: Permission for /koth create
+    default: op
+  koth.command.delete:
+    description: Permission for /koth delete
+    default: op
+  koth.command.setcapzone:
+    description: Permission for /koth setcapzone
+    default: op
+  koth.command.setcoords:
+    description: Permission for /koth setcoords
+    default: op
+  koth.command.setpoints:
+    description: Permission for /koth setpoints
+    default: op
+  nick.command:
+    default: op
+  koth.command.start:
+    description: Permission for /koth start
+    default: op
+  koth.command.stop:
+    description: Permission for /koth stop
+    default: op
+  kit.command.create:
+    description: Permission for /kit create
+    default: op
+  kit.command.delete:
+    description: Permission for /kit delete
+    default: op
+  kit.command.edit:
+    description: Permission for /kit edit
+    default: op
+  kit.command.give:
+    description: Permission for /kit edit
+    default: op
+  kit.command.editcontent:
+    description: Permission for /kit edit
+    default: op
+  kit.command.setitem:
+    description: Permission for /kit edit
+    default: op
+  use.player.command:
+    default: true
+  prefix.command:
+    default: true
+  coinshop.command:
+    default: true
+  bank.resetloot:
+    default: op
+  freekits.command:
+    default: op
+  sotw.command:
+    default: op
+  antispam.bypass:
+    default: op
+  spawn.cmd:
+    default: op
+  rb.command.use:
+    default: op
+  op.permission:
+    default: op
+  prefix.command:
+    default: op
+  abilities.command:
+    default: op
+  player.use:
+    default: true
+  events.command:
+    default: op
+  rename.command:
+    default: true
+  setdtr.permission:
+    default: op
+  setstrikes.permission:
+    default: op
+  setregentime.permission:
+    default: op
+  forcedisband.permission:
+    default: op
+  setpoints.permission:
+    default: op
+  autofeed.command:
+    default: op
+  brewer.command:
+    default: true
+  feed.command:
+    default: op
+  near.command:
+    default: op
+  npc.command:
+    default: op
+  god.command:
+    default: op
+  fixall.command.use:
+    default: op
+  fixhand.command.use:
+    default: op
+  faction.command.claimfor:
+    default: op
+  enderchest.permission:
+    default: true
+  clearentities.command:
+    default: op
+  reclaim.create:
+    default: op
+  reclaim.delete:
+    default: op
+  reclaim.edit:
+    default: op
+  support.op:
+    default: op
+  support.cmd: 
+    default: true
+  default.command.use:
+    default: true
+  bank.admin.permission:
+    default: op

@@ -1,0 +1,53 @@
+#======SERVER======
+prefix:  '§f[§9Astro] §g» §r'
+amethyst.motion: 2
+feather.motion: 2
+scoreboard.placeholder: ''
+facion.regeneration.offline: true
+
+#=====SCOREBOARD=====
+scoreboard.title:
+  - '§4Astro §f| §7Map: II'
+  
+#=====MESSAGES=====
+messages:
+  - "§7 Utiliza el comando §b/reclaim §7 para recibir recompensas diarias. Recuerda que solo puede volver a usar el comando cada 24 horas"
+  - "§7 Recuerda cerrar sesión dentro de tu base para evitar perder objetos"
+  - "§7 Vota por tu Partner favorito usando §d/support"
+  - "§7 ¿Quieres comprar un rango? §eEn el discord"
+  - "§7 Entra a nuestro servidor de Diacord: §bhttps://dsc.gg/astro"
+  - "§7 No uses §bHACKS"
+  - "§7 §eLmao"
+  - "§7 Compra rangos y llaves con dinero del servidor con el §pComerciante"
+  - "§7 El comando §a/spawn§r solo funciona en el Evento §bSoTW"
+  - "§7 Compra §aFix All§7 en el spawn"
+  - "§7 ¿Encontraste a un hacker?, usa /report o /rp para reportar"
+  - "§7 Usa el comando §b/bank §7para ver las coordenadas del banco"
+  
+  # Keyall
+Keyall:
+  Starter: 40
+  Ability: 40
+  Legend: 30
+  2025: 20
+  KoTH: 5
+
+# Keyall OP
+KeyallOP:
+  Starter: 128
+  Ability: 128
+  Legend: 64
+  2025: 64
+  KoTH: 10
+#=====BANK=====
+bank.settings:
+  time.reset: 10
+  world: world
+  coords:
+    x: 0
+    z: 0
+
+#=== Limit Wall ====
+limit_world: "warzone"
+limit_pos1: "-1000,0,-1000"
+limit_pos2: "1000,256,1000"
